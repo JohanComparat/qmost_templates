@@ -1,5 +1,9 @@
 # qmost_templates
 
+Credits :
+If you use this material in a scientific publication, please cite : Comparat et al. 2020. The final SDSS-IV/SPIDERS X-ray point source spectroscopic catalogue 
+https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..97C/abstract
+
 Imports and dependencies
 ```
 pip install numpy, astropy, matplotlib, speclite, spectres, scipy, pyneb
